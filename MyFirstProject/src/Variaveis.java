@@ -51,6 +51,22 @@ public class Variaveis {
         }
 
 
+        //===============================================
+
+        double width = 0;
+        double height = 0;
+        double area = 0;
+
+        System.out.print("Enter the width: ");
+        width = input.nextDouble();
+
+        System.out.println("Enter the height: ");
+        height = input.nextDouble();
+
+        area = width * height;
+
+        System.out.println("The area is: " +area);
+
         input.close();
     }
 }
