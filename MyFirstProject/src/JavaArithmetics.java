@@ -22,7 +22,10 @@ public class JavaArithmetics {
         //x /= y;(cuidado com os tipos inteiros e reais para não perder os decimais.)
 
 
+        // ORDER OF OPERATIONS [P-E-M-D-A-S]
+        //Ordem das operações [Parentêses, Expoentes, Multiplicação,
+        // Divisão, Adição, Subtração]
 
-        System.out.println(z);
+        
     }
 }
