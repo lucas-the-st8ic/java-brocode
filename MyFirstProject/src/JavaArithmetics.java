@@ -26,6 +26,6 @@ public class JavaArithmetics {
         //Ordem das operações [Parentêses, Expoentes, Multiplicação,
         // Divisão, Adição, Subtração]
 
-        
+
     }
 }
