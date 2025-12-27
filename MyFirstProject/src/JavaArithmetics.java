@@ -26,6 +26,8 @@ public class JavaArithmetics {
         //Ordem das operações [Parentêses, Expoentes, Multiplicação,
         // Divisão, Adição, Subtração]
 
+        double result = 3 + 4 * (7 - 5) / 2.0;
 
+        System.out.println(result);
     }
 }
