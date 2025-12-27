@@ -12,13 +12,16 @@ public class IfStatements {
 
         int age;
         String name;
+        boolean isStudent;
 
         System.out.print("Enter your name: ");
         name = input.nextLine();
 
         System.out.print("Enter your age: ");
-         age = input.nextInt();
+        age = input.nextInt();
 
+        System.out.println("Are you a student(true/false)? ");
+        isStudent = input.nextBoolean();
 
          //Group 1
         if (name.isEmpty()) {
