@@ -31,7 +31,6 @@ public class IfStatements {
         }
 
 
-
          //Group 2
         if (age >= 65) {
             System.out.println("You are a senior!");
@@ -45,6 +44,13 @@ public class IfStatements {
             System.out.println("You are under legal age!!");
         }
 
+
+        //Group 3
+        if(isStudent) {
+            System.out.println("You are a student!");
+        } else {
+            System.out.println("You are not a student!");
+        }
         input.close();
     }
 
