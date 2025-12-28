@@ -25,9 +25,9 @@ public class IfStatements {
 
          //Group 1
         if (name.isEmpty()) {
-            System.out.println("Name is empty!");
+            System.out.println("Name is empty! (T_T)");
         } else {
-            System.out.println("Hello, " + name + "!");
+            System.out.println("Hello, " + name + "! ✋");
         }
 
 
