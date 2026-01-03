@@ -1,17 +1,20 @@
-public class Main {
-    static void main(String[] args) {
 
-        //THYS IS MY FIRST JAVA PROGRAM
-        /*
-            This
-            is
-            a
-            multi-line
-            comment
-        */
-/*        System.out.println("I like Pizza!!!");
-        System.out.println("It's really good!!!");
-        System.out.println("Buy me pizza!!");
-        System.out.println();*/
-    }
+import java.util.Random;
+
+static void main(String[] args) {
+
+    Random random = new Random();
+
+    int number;
+
+    number = random.nextInt(1, 7);
+
+    System.out.println("Random Number: " +number);
+
+    double number2;
+
+    number2 = random.nextDouble(0, 10.90);
+
+    System.out.printf("Random Number: %.2f", number2);
 }
+
