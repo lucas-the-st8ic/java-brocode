@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Variaveis {
+public class Variables {
     static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
