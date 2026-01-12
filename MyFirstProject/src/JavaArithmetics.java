@@ -27,7 +27,10 @@ public class JavaArithmetics {
         // Divisão, Adição, Subtração]
 
         double result = 3 + 4 * (7 - 5) / 2.0;
-
         System.out.println(result);
+
+
+
+
     }
 }
