@@ -18,7 +18,7 @@ public class WeightConverter {
         System.out.println("Weight Conversion Program");
         System.out.println("1: Convert lbs to Kgs");
         System.out.println("2: Convert Kgs to lbs");
-        
+
         //Prompt for user choice
 
         System.out.print("Choose an option: ");
